@@ -1,0 +1,6 @@
+Flask
+requests
+Flask-PyMongo
+Flask-Mail
+python-dotenv
+epayco
